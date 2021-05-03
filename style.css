@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    background: rgb(73, 21, 21);
+}
+
+
+.container{
+
+    text-align: center;
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 43%;
+    background: chocolate;
+    border-radius: 7px;
+
+}
+
+h1{
+    text-align: center;
+    color: greenyellow;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+
+    font-size: 20px;
+    height: 30px;
+    width: 200px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 9px;
+    margin-right: 9px;
+    border-radius: 6px;
+    border: 3px solid rgb(248, 248, 243);
+}
+
+button{
+
+    font-size: 25px;
+    width: 45px;
+    height: 45px;
+    background-color: rgb(65, 69, 75);
+    color: blanchedalmond;
+    border-radius: 10px;
+    margin-bottom: 5px;
+
+}
